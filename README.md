@@ -34,10 +34,11 @@ Manual microscopic examination of blood smears — the current diagnostic gold s
 ## Results
 | Metric             | Baseline (LR + HOG) | This Model (EfficientNetB0) |
 |--------------------|---------------------|-----------------------------|
-| Recall (parasitized)|                    |                             |
-| Precision          |                     |                             |
-| F1-Score           |                     |                             |
-| AUC-ROC            |                     |                             |
+| Recall (parasitized)|        0.84        |           0.775             |
+| Precision          |         0.86        |           0.5321            |
+| F1-Score           |         0.85        |           0.6310            |
+| AUC-ROC            |         0.9238      |           0.59              |
+
 
 ### Disaggregated Performance
 | Subgroup          | N      | Recall | F1-Score |
