@@ -1,0 +1,28 @@
+# Malaria Cell Classification Using Deep Learning
+# Requirements for notebooks 01_eda -> 02_preprocessing -> 03_modelling -> 04_evaluation
+
+# Notebook environment
+jupyter==1.0.0
+notebook==7.2.1
+
+# Core data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Image handling
+Pillow==10.3.0
+opencv-python==4.10.0.84
+scikit-image==0.23.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Classical ML (baseline model, splitting, evaluation metrics)
+scikit-learn==1.4.2
+
+# Deep learning (EfficientNetB0 transfer learning, Grad-CAM)
+tensorflow==2.16.1
+
+# Browser deployment (TensorFlow.js export)
+tensorflowjs==4.20.0

@@ -1,0 +1,31 @@
+{
+  "decision_threshold": 0.014223060570657253,
+  "test_auc": 0.5905763595880529,
+  "classification_report": {
+    "Uninfected": {
+      "precision": 0.5861148197596796,
+      "recall": 0.318577648766328,
+      "f1-score": 0.4127879642689234,
+      "support": 1378.0
+    },
+    "Parasitized": {
+      "precision": 0.5321375186846039,
+      "recall": 0.7750362844702468,
+      "f1-score": 0.6310192023633678,
+      "support": 1378.0
+    },
+    "accuracy": 0.5468069666182874,
+    "macro avg": {
+      "precision": 0.5591261692221418,
+      "recall": 0.5468069666182873,
+      "f1-score": 0.5219035833161456,
+      "support": 2756.0
+    },
+    "weighted avg": {
+      "precision": 0.5591261692221418,
+      "recall": 0.5468069666182874,
+      "f1-score": 0.5219035833161456,
+      "support": 2756.0
+    }
+  }
+}

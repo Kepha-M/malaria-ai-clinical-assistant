@@ -1,0 +1,5 @@
+{
+  "decision_threshold": 0.014223060570657253,
+  "target_recall": 0.97,
+  "val_auc": 0.965658475110271
+}

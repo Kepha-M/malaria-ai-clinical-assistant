@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "true_positive_0.png",
+    "category": "true_positive",
+    "true_label": "Parasitized",
+    "predicted_label": "Parasitized",
+    "probability": 0.8237,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "true_positive_1.png",
+    "category": "true_positive",
+    "true_label": "Parasitized",
+    "predicted_label": "Parasitized",
+    "probability": 0.3171,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "true_positive_2.png",
+    "category": "true_positive",
+    "true_label": "Parasitized",
+    "predicted_label": "Parasitized",
+    "probability": 0.0715,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "true_negative_0.png",
+    "category": "true_negative",
+    "true_label": "Uninfected",
+    "predicted_label": "Uninfected",
+    "probability": 0.0137,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "true_negative_1.png",
+    "category": "true_negative",
+    "true_label": "Uninfected",
+    "predicted_label": "Uninfected",
+    "probability": 0.01,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "true_negative_2.png",
+    "category": "true_negative",
+    "true_label": "Uninfected",
+    "predicted_label": "Uninfected",
+    "probability": 0.0087,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "false_positive_0.png",
+    "category": "false_positive",
+    "true_label": "Uninfected",
+    "predicted_label": "Parasitized",
+    "probability": 0.051,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "false_positive_1.png",
+    "category": "false_positive",
+    "true_label": "Uninfected",
+    "predicted_label": "Parasitized",
+    "probability": 0.7286,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "false_positive_2.png",
+    "category": "false_positive",
+    "true_label": "Uninfected",
+    "predicted_label": "Parasitized",
+    "probability": 0.0807,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "false_negative_0.png",
+    "category": "false_negative",
+    "true_label": "Parasitized",
+    "predicted_label": "Uninfected",
+    "probability": 0.0087,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "false_negative_1.png",
+    "category": "false_negative",
+    "true_label": "Parasitized",
+    "predicted_label": "Uninfected",
+    "probability": 0.011,
+    "decision_threshold": 0.0142
+  },
+  {
+    "filename": "false_negative_2.png",
+    "category": "false_negative",
+    "true_label": "Parasitized",
+    "predicted_label": "Uninfected",
+    "probability": 0.0088,
+    "decision_threshold": 0.0142
+  }
+]
