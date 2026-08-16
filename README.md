@@ -86,6 +86,7 @@ open deployment/index.html
 > The trained model weights are included in `deployment/model/`. No internet connection or server is required to run inference.
 
 ---
-
+## For Live Demo
+Live: https://kepha-malaria-scan-buddy.lovable.app/
 ## Author
 **Kepha Ondieki** | Data Science Capstone Project in Collaboration with Ngao Labs
